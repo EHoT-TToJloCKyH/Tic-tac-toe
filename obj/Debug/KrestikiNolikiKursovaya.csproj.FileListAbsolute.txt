@@ -1,0 +1,15 @@
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\bin\Debug\KrestikiNolikiKursovaya.exe.config
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\bin\Debug\KrestikiNolikiKursovaya.exe
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\bin\Debug\KrestikiNolikiKursovaya.pdb
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.csproj.AssemblyReference.cache
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.TicTacToeMenu.resources
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.Properties.Resources.resources
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.csproj.GenerateResource.cache
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.exe
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.pdb
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.Information.resources
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.FastGameFriend.resources
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.FastGameBot.resources
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.OcupationVsFriend.resources
+C:\Users\ivano\source\repos\KrestikiNolikiKursovaya\obj\Debug\KrestikiNolikiKursovaya.exe.config
